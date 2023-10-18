@@ -1,2 +1,2 @@
-# Leetcode
+# Leetcode,GFG,CodeNinja
 Java
